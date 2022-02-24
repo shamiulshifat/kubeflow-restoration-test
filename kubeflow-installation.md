@@ -5,6 +5,9 @@ So remove kubeflow first
 microk8s disable kubeflow
 ````
 ***********************
+For quick install kubeflow:
+https://getindata.com/blog/kubeflow-pipelines-running-5-minutes/
+*****************
 step1: folllow this:
 https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/
 *********************
