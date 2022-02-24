@@ -4,6 +4,10 @@ So remove kubeflow first
 ```
 microk8s disable kubeflow
 ````
+***********************
+step1: folllow this:
+https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/
+*********************
 
 Then install juju:
 
